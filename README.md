@@ -7,6 +7,7 @@ The Support Analysis Tool is an AI-driven solution designed to automate the anal
     * Cause_Justification
     * Documentation issue/UI/UX issue/pricing issue/other
     * Details, if it is an other product issue.
+* **Recommendation**: Tailored recommendation to address the issue based on the knowladge base.
 
 ## Pre-requisites
 * A .csv file with support tickets
