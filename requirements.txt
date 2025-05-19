@@ -1,0 +1,8 @@
+openai
+pinecone
+streamlit
+langchain
+python-dotenv
+requests
+tqdm
+pandas
