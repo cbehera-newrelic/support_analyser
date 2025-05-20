@@ -11,7 +11,7 @@ The Support Analysis Tool is an AI-driven solution designed to automate the anal
 
 ## Pre-requisites
 * A .csv file with support tickets
-* A folder with the knowledge articles (Utilized our public documentation articles for this purpose)
+* A folder with the knowledge articles in .mdx format. (Utilized our public documentation articles for this purpose).
 * Your NR API key
 * Your github PAT
 * Your pine cone API key for vector embedding storage
@@ -20,7 +20,7 @@ The Support Analysis Tool is an AI-driven solution designed to automate the anal
 
 1. Clone the [repository](https://github.com/cbehera-newrelic/support_analyser) to your local machine.
 2. On your local machine, open the cloned folder in a code editor.
-3. Upload the knowledge article folder in the `support_analyser` repo.
+3. (Optional) To include more knowledge articles beyond the provided public documentation, upload your folder containing `.mdx` format articles to the **support_analyser** repository.
 4. In the terminal, perform the following steps:
 
    
